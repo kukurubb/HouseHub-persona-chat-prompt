@@ -1,0 +1,31 @@
+# LangChain core
+langchain>=0.1.0
+
+# LLM/Embedding
+openai>=1.0.0
+transformers>=4.30.0
+huggingface_hub>=0.16.0
+sentence-transformers>=2.2.2
+
+# Vector Store
+faiss-cpu>=1.7.4
+chromadb>=0.4.14
+
+# Web access / crawling (옵션)
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+playwright>=1.40.0
+
+# PDF/문서 처리
+PyPDF2>=3.0.1
+unstructured>=0.10.10  # 문서 추출 유틸
+python-docx>=1.0.1
+
+# Environment variable
+python-dotenv>=1.0.0
+
+# Streamlit (프론트엔드 대시보드용)
+streamlit>=1.32.0
+
+# 기타
+tqdm>=4.66.1
