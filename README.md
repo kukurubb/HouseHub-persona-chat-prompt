@@ -8,7 +8,7 @@
 - slot_filling.py: 고객 키워드 추출 프롬프트
 
 ## 프로젝트 구조
-
+"""
 ├── amenity.py           # 편의시설 관련 기능
 ├── budget.py           # 예산 계산 및 관리
 ├── persona_prompt_generator.py  # 페르소나 기반 대화 생성
@@ -20,3 +20,4 @@
 ├── tone.py           # 대화 톤 관리
 ├── transaction_type.py # 거래 유형 관리
 └── utils.py          # 유틸리티 함수
+"""
